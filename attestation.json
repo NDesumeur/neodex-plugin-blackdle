@@ -1,9 +1,9 @@
 {
   "pluginId": "neodex.blackdle",
   "repo": "NDesumeur/neodex-plugin-blackdle",
-  "version": "1.4.1",
-  "sha256": "19a88315339a9c13d0fd4c3146c697a0ab4f6a0b8532c0862886b265bb3d1dd2",
-  "approvedAt": "2026-11-16T16:38:46.876Z",
+  "version": "1.5.0",
+  "sha256": "2fd1232b0cfee6f5b6e0b946aebe721138b674d7b04a67245c374cf6d0ff944b",
+  "approvedAt": "2026-11-25T17:16:40.196Z",
   "neobase": ">=4.0.0",
-  "signature": "pG5atP0ZiUkhEhM+bgX1uqFl+25YMZeludIPFOgQe2H04Q4EjfWiNm/GPZdk1WlY3010E2zzS3X9nlKvt4xlAA=="
+  "signature": "ZODCXq02V4/h8Kefh3M6C7MYakkLgHKef6Fm7QqZM3X81Brj1ZaKNKKjyZGuBtLvcDLyMll+1V0kRhwlBKxgBA=="
 }
